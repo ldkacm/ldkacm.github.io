@@ -1,0 +1,11 @@
+# Site settings
+title: Lenore and Adam's Awesome Wedding Site 
+email: ldkacm@gmail.com
+description: "We hope all of our friends and family can join us as we celebrate our marriage"
+baseurl: ""
+url: "https://ldkacm.github.io"
+github_username:  ldkacm
+
+# Build settings
+markdown: kramdown
+permalink: pretty
