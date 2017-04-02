@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RSVP 
-permalink: /about/
+permalink: /rsvp/
 ---
 
 To help us plan for the event we kindly ask that you RSVP 
